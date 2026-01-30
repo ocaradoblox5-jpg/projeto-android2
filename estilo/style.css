@@ -41,17 +41,18 @@ header > h1 {
         }
         menu{
             background-color: #1a5c37;
-            padding: 10px;
-            margin-bottom: 0px;
+            padding: 12px;
+            margin-bottom: 5px;
         }
         menu > a{
             font-weight: bold;
             padding: 5px;
             border-radius: 5px;
             color: white;
-             margin: 3px;
+             margin: 10px 10px 20x 10px;
             background-color: #1a5c37;
             transition-duration: 0.5s;
+            font-size: 0.9em;
         }
         menu > a:hover{
             color: #39CB79;
@@ -157,3 +158,4 @@ header > h1 {
             display: block;
             margin: auto;
         }
+        
