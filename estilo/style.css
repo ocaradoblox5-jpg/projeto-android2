@@ -46,10 +46,10 @@ header > h1 {
         }
         menu > a{
             font-weight: bold;
-            padding: 5px;
+            padding: 10px;
             border-radius: 5px;
             color: white;
-             margin: 5px;
+             margin: 10px;
             background-color: #1a5c37;
             transition-duration: 0.5s;
         }
