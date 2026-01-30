@@ -41,12 +41,12 @@ header > h1 {
         }
         menu{
             background-color: #1a5c37;
-            padding: 5px;
+            padding: 10px;
             margin-bottom: 0px;
         }
         menu > a{
             font-weight: bold;
-            padding: 10px;
+            padding: 5px;
             border-radius: 5px;
             color: white;
              margin: 5px;
@@ -152,4 +152,7 @@ header > h1 {
             background-color: var(--cor3);
             list-style-position: inside;
             columns: 2;
+        }
+        .imagem {
+            display: block;
         }
