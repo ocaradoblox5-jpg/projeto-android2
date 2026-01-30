@@ -48,7 +48,8 @@ header > h1 {
             font-weight: bold;
             border-radius: 5px;
             color: white;
-             margin: 10px 10px 20x 10px;
+            padding: 3px;
+             margin: 10px;
             transition-duration: 0.5s;
             font-size: 0.9em;
         }
@@ -153,7 +154,7 @@ header > h1 {
             columns: 2;
         }
         .imagem {
-            display: block;
-            margin: auto;
+            max-width: 100%;
+            height: auto;
         }
         
