@@ -155,4 +155,5 @@ header > h1 {
         }
         .imagem {
             display: block;
+            margin: auto;
         }
