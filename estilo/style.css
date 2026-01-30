@@ -46,11 +46,9 @@ header > h1 {
         }
         menu > a{
             font-weight: bold;
-            padding: 5px;
             border-radius: 5px;
             color: white;
              margin: 10px 10px 20x 10px;
-            background-color: #1a5c37;
             transition-duration: 0.5s;
             font-size: 0.9em;
         }
