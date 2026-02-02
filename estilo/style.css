@@ -140,7 +140,7 @@ header > h1 {
             text-decoration: none;
             font-weight: bold;
             background-color: var(--cor2);
-            padding: 2px 6px;
+            padding: 0px;
             color: var(--cor5);
         }
         aside {
